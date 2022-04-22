@@ -22,4 +22,4 @@ Feature: RCTI+ Login
   Scenario: Login without input username dan password
     Given User akses form login RCTI+
     When User klik button login
-    Then validate login
+    Then validate login akses
